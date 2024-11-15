@@ -5,6 +5,9 @@
 ![image](https://github.com/user-attachments/assets/393e3a69-1afc-49f0-b0c2-eda1b957cc43)
 
 ### Solution:
+
+> EDIT: Turns out opening the `reviveme` file directly shows the flag. Maybe the organisers forgot to "break" the JPEG signature
+
 Download the file `reviveme`. Identify the file type.
 
 ![image](https://github.com/user-attachments/assets/64406805-4cb1-416e-9ab6-f98f067a7b41)
