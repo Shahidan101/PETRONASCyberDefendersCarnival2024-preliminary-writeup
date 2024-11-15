@@ -6,7 +6,7 @@
 
 ### Solution:
 
-> EDIT: Turns out opening the `reviveme` file directly shows the flag. Maybe the organisers forgot to "break" the JPEG signature
+_**EDIT: Turns out opening the `reviveme` file directly shows the flag. Maybe the organisers forgot to "break" the JPEG signature.**_
 
 Download the file `reviveme`. Identify the file type.
 
