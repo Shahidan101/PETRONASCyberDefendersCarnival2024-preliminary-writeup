@@ -21,4 +21,4 @@ Cycle through the different colour modes and adjustments until we get a differen
 
 ![image](https://github.com/user-attachments/assets/a0f3d261-4b65-4f5c-9915-95c62ed86f1d)
 
-The flag is `gcsm2024{0l0r_th4_QR}`
+The flag is `gcsm2024{c0l0r_th4_QR}`
