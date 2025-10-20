@@ -22,7 +22,7 @@
 ```
 # 🛡️ PETRONAS Cyber Defenders Carnival 2024 – Writeups
 
-Welcome to my collection of **solutions and writeups** for the [PETRONAS Cyber Defenders Carnival 2024](https://www.petronas.com/).  
+Welcome to my collection of **solutions and writeups** for the PETRONAS Cyber Defenders Carnival 2024.  
 This repository documents the challenges I attempted during the competition, along with detailed explanations of the thought process, tools, and techniques used to solve them.
 
 ---
