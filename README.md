@@ -20,9 +20,9 @@
 (__   ________________________________________________________________________________   __)
    | |                                                                                | |
 ```
-# 🛡️ PETRONAS Cyber Defenders Carnival 2024 – Writeups
+# 🛡️ PETRONAS Cyber Defenders Carnival 2024 (Preliminary Round) – Writeups
 
-Welcome to my collection of **solutions and writeups** for the PETRONAS Cyber Defenders Carnival 2024.  
+Welcome to my collection of **solutions and writeups** for the PETRONAS Cyber Defenders Carnival 2024 Preliminary Round.  
 This repository documents the challenges I attempted during the competition, along with detailed explanations of the thought process, tools, and techniques used to solve them.
 
 ---
